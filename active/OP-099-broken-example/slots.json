@@ -1,0 +1,10 @@
+{
+  "categories": [
+    {
+      "name": "Infantry",
+      "slots": [
+        { "role": "Rifleman", "count": 4 }
+      ]
+    }
+  ]
+}

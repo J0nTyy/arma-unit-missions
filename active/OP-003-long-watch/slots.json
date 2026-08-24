@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "name": "Command",
+      "slots": [
+        { "role": "Patrol Leader", "count": 1 },
+        { "role": "Radio Operator", "count": 1 }
+      ]
+    },
+    {
+      "name": "Recon Teams",
+      "slots": [
+        { "role": "Team Leader", "count": 2 },
+        { "role": "Scout Observer", "count": 4 },
+        { "role": "Marksman", "count": 2 }
+      ]
+    },
+    {
+      "name": "Support",
+      "slots": [
+        { "role": "Combat Medic", "count": 2 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "OBJ-01",
+    "name": "First Objective",
+    "description": "This objective is fine.",
+    "type": "primary",
+    "required": true
+  },
+  {
+    "id": "OBJ-01",
+    "name": "Duplicate ID Objective",
+    "description": "This objective reuses OBJ-01, which is not allowed.",
+    "type": "secondary",
+    "required": false
+  }
+]

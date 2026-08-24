@@ -1,0 +1,17 @@
+{
+  "id": "OP-003",
+  "name": "Operation Long Watch",
+  "status": "review",
+  "mission_maker": "Ghost",
+  "description": "Four-day covert observation of a jungle airstrip on Tanoa, compressed into one session: infiltrate, build a hide, log every aircraft movement, and exfiltrate without ever being seen.",
+  "map": "Tanoa",
+  "mission_type": "Recon",
+  "difficulty": "veteran",
+  "minimum_players": 4,
+  "maximum_players": 12,
+  "estimated_duration_minutes": 180,
+  "factions": ["NATO", "Syndikat"],
+  "required_mods": ["CBA_A3", "ACE3", "TFAR"],
+  "tags": ["recon", "stealth", "jungle", "no-respawn"],
+  "version": "1.0.1"
+}

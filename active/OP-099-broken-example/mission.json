@@ -1,0 +1,17 @@
+{
+  "id": "OP-099",
+  "name": "Operation Broken Example",
+  "status": "development",
+  "mission_maker": "Example",
+  "description": "Deliberately broken mission kept in the repository so /mission validate has something to fail on. Fixing it is a good first exercise for new mission makers.",
+  "map": "Altis",
+  "mission_type": "Direct Action",
+  "difficulty": "standard",
+  "minimum_players": 5,
+  "maximum_players": 10,
+  "estimated_duration_minutes": 60,
+  "factions": ["NATO"],
+  "required_mods": ["CBA_A3"],
+  "tags": ["example", "broken-on-purpose"],
+  "version": "0.1.0"
+}

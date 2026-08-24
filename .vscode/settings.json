@@ -1,0 +1,16 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["**/mission.json"],
+      "url": "./schema/mission.schema.json"
+    },
+    {
+      "fileMatch": ["**/objectives.json"],
+      "url": "./schema/objectives.schema.json"
+    },
+    {
+      "fileMatch": ["**/slots.json"],
+      "url": "./schema/slots.schema.json"
+    }
+  ]
+}

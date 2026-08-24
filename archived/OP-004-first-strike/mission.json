@@ -1,0 +1,17 @@
+{
+  "id": "OP-004",
+  "name": "Operation First Strike",
+  "status": "archived",
+  "mission_maker": "Hammer",
+  "description": "The unit's first joint raid on Stratis: seize the communications outpost at Camp Rogain and hold it until relief arrives. Retired after three playthroughs.",
+  "map": "Stratis",
+  "mission_type": "Raid",
+  "difficulty": "easy",
+  "minimum_players": 6,
+  "maximum_players": 18,
+  "estimated_duration_minutes": 60,
+  "factions": ["NATO", "AAF"],
+  "required_mods": ["CBA_A3"],
+  "tags": ["raid", "daytime", "beginner-friendly"],
+  "version": "2.1.0"
+}

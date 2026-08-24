@@ -1,0 +1,23 @@
+[
+  {
+    "id": "OBJ-01",
+    "name": "Seize Camp Rogain",
+    "description": "Clear and secure the communications outpost.",
+    "type": "primary",
+    "required": true
+  },
+  {
+    "id": "OBJ-02",
+    "name": "Protect the Comms Van",
+    "description": "The communications vehicle must survive the raid undamaged.",
+    "type": "primary",
+    "required": true
+  },
+  {
+    "id": "OBJ-03",
+    "name": "Capture the Commander",
+    "description": "Take the garrison commander alive.",
+    "type": "secondary",
+    "required": false
+  }
+]

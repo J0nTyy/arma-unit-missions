@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "Command",
+      "slots": [
+        { "role": "Platoon Leader", "count": 1 },
+        { "role": "Platoon Medic", "count": 1 }
+      ]
+    },
+    {
+      "name": "Infantry",
+      "slots": [
+        { "role": "Squad Leader", "count": 2 },
+        { "role": "Rifleman", "count": 10 },
+        { "role": "Autorifleman", "count": 2 },
+        { "role": "AT Specialist", "count": 2 }
+      ]
+    }
+  ]
+}

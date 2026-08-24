@@ -1,0 +1,30 @@
+[
+  {
+    "id": "OBJ-01",
+    "name": "Maintain Observation",
+    "description": "Keep continuous eyes on the airstrip for the full observation window without being detected.",
+    "type": "primary",
+    "required": true
+  },
+  {
+    "id": "OBJ-02",
+    "name": "Log Aircraft Movements",
+    "description": "Photograph and log every aircraft arrival, departure and cargo transfer.",
+    "type": "primary",
+    "required": true
+  },
+  {
+    "id": "OBJ-03",
+    "name": "Identify the Coordinator",
+    "description": "Photograph the individual coordinating the transfers.",
+    "type": "secondary",
+    "required": false
+  },
+  {
+    "id": "OBJ-04",
+    "name": "Emplace Listening Device",
+    "description": "Install the remote listening kit on the terminal's landline junction box.",
+    "type": "optional",
+    "required": false
+  }
+]
