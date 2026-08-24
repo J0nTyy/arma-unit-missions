@@ -7,11 +7,15 @@
   "map": "Stratis",
   "mission_type": "Raid",
   "difficulty": "easy",
-  "minimum_players": 6,
-  "maximum_players": 18,
   "estimated_duration_minutes": 60,
-  "factions": ["NATO", "AAF"],
-  "required_mods": ["CBA_A3"],
-  "tags": ["raid", "daytime", "beginner-friendly"],
+  "factions": [
+    "NATO",
+    "AAF"
+  ],
+  "tags": [
+    "raid",
+    "daytime",
+    "beginner-friendly"
+  ],
   "version": "2.1.0"
 }

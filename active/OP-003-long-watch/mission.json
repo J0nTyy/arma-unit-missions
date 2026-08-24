@@ -7,11 +7,16 @@
   "map": "Tanoa",
   "mission_type": "Recon",
   "difficulty": "veteran",
-  "minimum_players": 4,
-  "maximum_players": 12,
   "estimated_duration_minutes": 180,
-  "factions": ["NATO", "Syndikat"],
-  "required_mods": ["CBA_A3", "ACE3", "TFAR"],
-  "tags": ["recon", "stealth", "jungle", "no-respawn"],
+  "factions": [
+    "NATO",
+    "Syndikat"
+  ],
+  "tags": [
+    "recon",
+    "stealth",
+    "jungle",
+    "no-respawn"
+  ],
   "version": "1.0.1"
 }
